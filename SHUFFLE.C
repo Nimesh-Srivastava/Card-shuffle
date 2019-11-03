@@ -46,6 +46,7 @@ void shuffle()
 	}
 	if(flag==0)
 	{
+		time--;
 		shuffle();
 	}
 }
