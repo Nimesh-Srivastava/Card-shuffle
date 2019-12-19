@@ -63,7 +63,7 @@ int cards(int a,int b)
 	}
 }
 
-int main()
+void main()
 {
 	int c1, c2, check=2, i;
 	char ans='y';
