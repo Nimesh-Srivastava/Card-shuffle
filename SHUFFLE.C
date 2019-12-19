@@ -67,6 +67,7 @@ int main()
 {
 	int c1, c2, check=2, i;
 	char ans='y';
+	system("cls");
 	while(ans=='y')
 	{
 		if(time==0)
